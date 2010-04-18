@@ -12,6 +12,14 @@ body {
   background-image: url('../images/android.png');
 }
 
+.attribution {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+
+  font-size: 4pt;
+}
+
 .bellytext {
   position: relative;
   top: 128px;

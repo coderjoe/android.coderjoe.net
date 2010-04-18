@@ -1,3 +1,3 @@
 ActionController::Routing::Routes.draw do |map|
-  map.root :controller => "page", :action => "home"
+  map.root :controller => "pages", :action => "home"
 end
